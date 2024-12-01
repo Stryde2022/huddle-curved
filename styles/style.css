@@ -169,7 +169,8 @@ p {
     margin-top: 200px;
     position: relative;
     top: 9px;
-
+    margin-right: 0;
+    margin-left: 0;
 }
 
 footer {
